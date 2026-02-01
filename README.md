@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, Amjad.
 
-<!--
-**adeblouzi60-maker/adeblouzi60-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student in **ICT** and
+🎮 Aspiring **Indie Game Developer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm an Italian student with an interest in:
+- Software Development
+- Cybersecurity
+- Indie Game Development
+- Technology and innovation
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- C++
+- java
+- c
+
+**Game Development**
+- Godot Engine
+
+
+**Development Tools**
+- Git & GitHub
+- Visual Studio Code
+- Windows
+

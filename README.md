@@ -1,7 +1,6 @@
 # 👋 Hi, Amjad.
 
-💻 Student in **ICT** and
-🎮 Aspiring **Indie Game Developer**  
+💻 Student in **ICT**
 
 ---
 
@@ -9,7 +8,7 @@
 
 I'm an Italian student with an interest in:
 - Software Development
-- Cybersecurity
+- Networking
 - Indie Game Development
 - Technology and innovation
 

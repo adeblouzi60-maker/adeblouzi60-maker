@@ -1,4 +1,4 @@
-# 👋 Hi, Amjad.
+
 
 💻 Student in **ICT**
 
